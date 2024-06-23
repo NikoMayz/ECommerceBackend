@@ -43,6 +43,9 @@ I have learned alot about database modeling and backend routing.
 Created by Michael Young
 https://github.com/NikoMayz
 
+- Walkthrough Video
+https://bootcampspot.instructuremedia.com/embed/86a31459-f3c9-4af2-85c1-b9c4acc1678d
+
 # <h3>License<h3>
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
